@@ -1,5 +1,5 @@
 # React.js-Geography-Trivia-UI
-An interactive geography quiz implemented using React.js. 
+This is an interactive geography quiz implemented using React.js. 
 
 This quiz will test some trivial geography knowledge by asking the user 10 random multiple choice geography related questions.
 
